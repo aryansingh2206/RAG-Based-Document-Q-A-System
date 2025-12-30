@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# FAISS index (recommended to ignore)
+vectorstore/
+
+# OS
+.DS_Store
+Thumbs.db
