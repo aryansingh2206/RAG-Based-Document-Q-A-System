@@ -164,7 +164,3 @@ The system prioritizes **faithfulness over creativity**.
 * Evaluation metrics for RAG quality
 
 ---
-
-
-Just say the word 👍
-```
