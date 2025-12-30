@@ -3,9 +3,8 @@
 
 An end-to-end **Retrieval-Augmented Generation (RAG)** application that enables users to ask natural-language questions over real-world PDF documents such as **company policies, employee handbooks, and reports**.
 
-The system retrieves relevant document chunks using semantic search and generates **grounded, hallucination-safe answers** using an open-source language model — all with a fully free tech stack.
+The system retrieves relevant document chunks using semantic search and generates **grounded, hallucination-safe answers** using an open-source language model.
 
----
 
 ## Key Features
 
